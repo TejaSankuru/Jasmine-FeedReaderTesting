@@ -104,6 +104,7 @@ jasmineRequire.HtmlReporter = function(j$) {
       if(noExpectations(result) && typeof console !== 'undefined' && typeof console.error !== 'undefined') {
         console.error('Spec \'' + result.fullName + '\' has no expectations.');
       }
+      
 
       if (result.status != 'disabled') {
         specsExecuted++;
