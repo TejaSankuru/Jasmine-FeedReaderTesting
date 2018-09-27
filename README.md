@@ -1,17 +1,17 @@
-Feed Reader Testing Project
+#Feed Reader Testing Project
 Testing the Feed Reader app using Javascript testing framework Jasmine.
 
 Reference
-Jasmine documentation
+Jasmine documentation <https://jasmine.github.io/>
 
 How to run the this locally
 
-Click "Clone in Desktop" / "Download ZIP"
-Open the folder
-Open index.html on your preferred browser
-There should be several test results at the bottom of the screen that says "~ specs, ~ failures"
+1. Click "Clone in Desktop" / "Download ZIP"
+2. Open the folder
+3. Open index.html on your preferred browser
 
-OR
+
+##OR
 
 Using Terminal and Node.js:
 
