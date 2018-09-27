@@ -8,7 +8,7 @@ Testing the Feed Reader app using Javascript testing framework Jasmine.
 2. Open the folder
 3. Open index.html on your preferred browser
 
-## OR
+### OR
 
 Using Terminal and Node.js:
 
