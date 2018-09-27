@@ -12,7 +12,7 @@ Testing the Feed Reader app using Javascript testing framework Jasmine.
 
 Using Terminal and Node.js:
 
-Pre-requisite : Install node.js, npm, and git.
+**Pre-requisite :** Install node.js, npm, and git.
 
 1. Clone this repo. Open your terminal and run git clone https://github.com/TejaSankuru/Jasmine-FeedReaderTesting.git.
 2. Install http-server by npm install -g http-server.
