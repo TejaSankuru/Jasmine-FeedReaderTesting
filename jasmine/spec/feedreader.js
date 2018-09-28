@@ -67,7 +67,7 @@ $(function() {
 
          // Test that ensures the menu changes visibility when the menu icon is clicked.
 
-          it('on', function() {
+          it('ON and OFF', function() {
             const body = document.querySelector('body');
             const menu = document.querySelector('.menu-icon-link');
             menu.click();
@@ -75,11 +75,11 @@ $(function() {
             expect(body.classList.contains('menu-hidden')).toBe(false);
             //menu.click();
             //expect(body.classList.contains('menu-hidden')).not.toBe(false);
-          });
+            //});
 
-          it('off', function() {
-            const body = document.querySelector('body');
-            const menu = document.querySelector('.menu-icon-link');
+            //it('off', function() {
+            //const body = document.querySelector('body');
+            //const menu = document.querySelector('.menu-icon-link');
             menu.click();
             expect(body.classList.contains('menu-hidden')).toBe(true);
           });
