@@ -23,5 +23,5 @@ Once your local server is started you should see the following at localhost:8080
 
 [![Screen-Shot-2018-10-21-at-11-08-43-AM.png](https://i.postimg.cc/RCDKKQGw/Screen-Shot-2018-10-21-at-11-08-43-AM.png)](https://postimg.cc/nMqXtmyL)
 
-** Reference
+**Reference :**
 Jasmine documentation <https://jasmine.github.io/>
