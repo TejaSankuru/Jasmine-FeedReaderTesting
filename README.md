@@ -14,9 +14,9 @@ Using Terminal and Node.js:
 
 **Pre-requisite :** Install node.js, npm, and git.
 
-1. Clone this repo. Open your terminal and run git clone https://github.com/TejaSankuru/Jasmine-FeedReaderTesting.git.
-2. Install http-server by npm install -g http-server.
-3. Then run http-server in terminal inside the root of the cloned repo.
+1. Clone this repo. Open your terminal and run ```git clone https://github.com/TejaSankuru/Jasmine-FeedReaderTesting.git```.
+2. Install ```http-server``` by running ```npm install -g http-server```.
+3. Then run ```http-server``` in terminal inside the root of the cloned repo.
 4. Go to the URL http://localhost:8080/ in browser.
 
 Once your local server is started you should see the following at localhost:8080
