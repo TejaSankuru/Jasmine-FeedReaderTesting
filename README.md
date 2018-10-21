@@ -19,5 +19,9 @@ Using Terminal and Node.js:
 3. Then run http-server in terminal inside the root of the cloned repo.
 4. Go to the URL http://localhost:8080/ in browser.
 
+Once your local server is started you should see the following at localhost:8080
+
+[![Screen-Shot-2018-10-21-at-11-08-43-AM.png](https://i.postimg.cc/RCDKKQGw/Screen-Shot-2018-10-21-at-11-08-43-AM.png)](https://postimg.cc/nMqXtmyL)
+
 **Reference
 Jasmine documentation <https://jasmine.github.io/>
